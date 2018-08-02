@@ -6,4 +6,4 @@ We meet at [the enclave](http://enclavecoop.com/) the second and fourth Tuesday 
 
 We also have a **Python For Absolute Beginners** class we do with the [Pikes Peak Library District](https://ppld.org/).
 
-We also publish lots of projects and notes at https://github.com/pysprings
+We also publish lots of projects and notes at <https://github.com/pysprings>
