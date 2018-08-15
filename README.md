@@ -14,5 +14,5 @@ Tutorials
 - [Learn The Commandline The Hard Way](https://learnpythonthehardway.org/book/appendixa.html)
 - [Automate The Boring Stuff](https://automatetheboringstuff.com)
 - [Getting Started With Django](https://www.djangoproject.com/start/)
-- [pytes tutorial](https://semaphoreci.com/community/tutorials/testing-python-applications-with-pytest)
+- [pytest tutorial](https://semaphoreci.com/community/tutorials/testing-python-applications-with-pytest)
 - [pandas tutorial](https://pandas.pydata.org/pandas-docs/stable/10min.html#min)
