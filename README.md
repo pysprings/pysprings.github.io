@@ -13,6 +13,11 @@ Tutorials
 
 - [Learn The Commandline The Hard Way](https://learnpythonthehardway.org/book/appendixa.html)
 - [Automate The Boring Stuff](https://automatetheboringstuff.com)
+    *   Lots of great material, here are some things you may find interesting.
+    *   Basics: [Chapter 0 - Introduction](http://automatetheboringstuff.com/chapter0/) through [Chapter 6 – Manipulating Strings](http://automatetheboringstuff.com/chapter6/)
+    *   [Chapter 8 – Reading and Writing Files](http://automatetheboringstuff.com/chapter8/)
+    *   [Chapter 14 – Working with CSV Files and JSON Data](http://automatetheboringstuff.com/chapter14/)
+    *   [Chapter 16 – Sending Email and Text Messages](http://automatetheboringstuff.com/chapter16/)
 - [Getting Started With Django](https://www.djangoproject.com/start/)
 - [pytest tutorial](https://semaphoreci.com/community/tutorials/testing-python-applications-with-pytest)
 - [pandas tutorial](https://pandas.pydata.org/pandas-docs/stable/10min.html#min)
