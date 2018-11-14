@@ -26,7 +26,8 @@ Tutorials
 - [Introduction to Bottle.py](https://bottlepy.org/docs/dev/tutorial.html)
 - [Introduction to SQLite](http://www.sqlitetutorial.net/sqlite-python/sqlite-python-select/)
 - [Introduction to Conda](https://conda.io/docs/user-guide/tutorials/)
-- pipenv 
+- pipenv
     * [Introduction to pipenv](https://docs.pipenv.org/basics/)
     * a slightly better tutorial is here: [another tutorial](git@github.com:pysprings/pysprings.github.io.git)
+- [direnv -- Unclutter your .profile](https://github.com/direnv/direnv#direnv----unclutter-your-profile)
 - [Introduction to Git](https://git-scm.com/docs/gittutorial)
