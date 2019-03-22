@@ -29,6 +29,7 @@ Tutorials
 - pipenv
     * [Introduction to pipenv](https://docs.pipenv.org/basics/)
     * a slightly better tutorial is here: [another tutorial](https://realpython.com/pipenv-guide/#pipenv-introduction)
+- [Poetry - Python packaging and dependency management made easy](https://poetry.eustace.io/docs/)
 - [direnv -- Unclutter your .profile](https://github.com/direnv/direnv#direnv----unclutter-your-profile)
 - [Introduction to Git](https://git-scm.com/docs/gittutorial)
 - [Packaging Python Projects](https://packaging.python.org/tutorials/packaging-projects/)
