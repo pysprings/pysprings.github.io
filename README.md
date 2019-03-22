@@ -32,3 +32,4 @@ Tutorials
 - [direnv -- Unclutter your .profile](https://github.com/direnv/direnv#direnv----unclutter-your-profile)
 - [Introduction to Git](https://git-scm.com/docs/gittutorial)
 - [Packaging Python Projects](https://packaging.python.org/tutorials/packaging-projects/)
+- [pre-commit](https://pre-commit.com/)
