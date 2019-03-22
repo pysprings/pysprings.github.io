@@ -28,7 +28,7 @@ Tutorials
 - [Introduction to Conda](https://conda.io/docs/user-guide/tutorials/)
 - pipenv
     * [Introduction to pipenv](https://docs.pipenv.org/basics/)
-    * a slightly better tutorial is here: [another tutorial](git@github.com:pysprings/pysprings.github.io.git)
+    * a slightly better tutorial is here: [another tutorial](https://realpython.com/pipenv-guide/#pipenv-introduction)
 - [direnv -- Unclutter your .profile](https://github.com/direnv/direnv#direnv----unclutter-your-profile)
 - [Introduction to Git](https://git-scm.com/docs/gittutorial)
 - [Packaging Python Projects](https://packaging.python.org/tutorials/packaging-projects/)
