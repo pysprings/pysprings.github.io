@@ -8,6 +8,10 @@ We also have a **Python For Absolute Beginners** class we do with the [Pikes Pea
 
 We also publish lots of projects and notes at <https://github.com/pysprings>.
 
+Lightning Talks
+---------------
+- [Black: The Uncompromising Code Formatter](https://youtu.be/bTAFl8P2DkE?t=299)
+
 Tutorials
 ---------
 
