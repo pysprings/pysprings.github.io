@@ -8,14 +8,15 @@ We also have a **Python For Absolute Beginners** class we do with the [Pikes Pea
 
 We also publish lots of projects and notes at <https://github.com/pysprings>.
 
-Installation
-------------
-If you are on Windows, here's a presentation we put together on installing Python using Conda: [Windows Python Setup](https://github.com/pysprings/windows-python-setup)
+Python Installation
+-------------------
+If you are on Windows, here's a presentation we put together on installing Python using Conda: [Windows Python Setup](https://github.com/pysprings/windows-python-setup)  
 Linux/Mac should already have python installed.  Instructions if it isn't is TBD.
 
 Lightning Talks
 ---------------
 - [Black: The Uncompromising Code Formatter](https://youtu.be/bTAFl8P2DkE?t=299)
+- [Python Package Managers](https://youtu.be/3J02sec99RM)
 
 Tutorials
 ---------
