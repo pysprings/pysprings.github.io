@@ -47,5 +47,5 @@ Tutorials
 
 Projects
 --------
-[PySprings Badging System](https://github.com/pysprings/Pysprings_Badging_System)
-[Gradients and Wavelets Notebook](pysprings-gradients/gradients.ipynb)
+- [PySprings Badging System](https://github.com/pysprings/Pysprings_Badging_System)
+- [Gradients and Wavelets Notebook](pysprings-gradients/gradients.ipynb)
