@@ -44,3 +44,7 @@ Tutorials
 - [Introduction to Git](https://git-scm.com/docs/gittutorial)
 - [Packaging Python Projects](https://packaging.python.org/tutorials/packaging-projects/)
 - [pre-commit](https://pre-commit.com/)
+
+Projects
+--------
+[Gradients](pysprings-gradients/gradients.ipynb)
