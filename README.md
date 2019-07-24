@@ -1,5 +1,7 @@
 PySprings
 =========
+We meet the second and forth Tuesday of every month.
+
 [Our meetup site](https://www.meetup.com/pysprings/) has the latest things that we do.
 
 We meet at [the enclave](http://enclavecoop.com/) the second and fourth Tuesday of each month.
