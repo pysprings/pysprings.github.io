@@ -1,6 +1,6 @@
 PySprings
 =========
-We meet the second and forth Tuesday of every month.
+We meet the second and fourth Tuesday of every month.
 
 [Our meetup site](https://www.meetup.com/pysprings/) has the latest things that we do.
 
