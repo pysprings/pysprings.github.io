@@ -51,3 +51,4 @@ Projects
 --------
 - [PySprings Badging System](https://github.com/pysprings/Pysprings_Badging_System)
 - [Gradients and Wavelets Notebook](pysprings-gradients/gradients.ipynb)
+- [Entity-Component-System Toy](https://github.com/pysprings/pysprings.github.io/toychest/ecs_mob_programming/)
