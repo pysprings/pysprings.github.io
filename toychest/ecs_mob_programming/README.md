@@ -1,4 +1,4 @@
-#Rectangle Platformer
+# Rectangle Platformer
 We want to have a game wherein you are a rectangle that can jump on other
 rectangles to get higher.
 
