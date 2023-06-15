@@ -4,11 +4,14 @@ We meet the second and fourth Tuesday of every month.
 
 [Our meetup site](https://www.meetup.com/pysprings/) has the latest things that we do.
 
-We meet at [the enclave](http://enclavecoop.com/) the second and fourth Tuesday of each month.
+We meet virtually on the second Tuesday of each month, and in-person at [the enclave](http://enclavecoop.com/) the fourth Tuesday of each month.
 
-We also have a **Python For Absolute Beginners** class we do with the [Pikes Peak Library District](https://ppld.org/).
+Come chat with us!  We have a public matrix room hosted on [gitter.im](https://app.gitter.im/#/room/#pysprings_community:gitter.im) (you'll need to log on with a GitHub, GitLab, or Twitter account, in order to post).
 
 We also publish lots of projects and notes at <https://github.com/pysprings>.
+
+We used to have a **Python For Absolute Beginners** class we did with the [Pikes Peak Library District](https://ppld.org/) (pre-pandemic).  There's no current plan for bringing this back.
+
 
 Python Installation
 -------------------
