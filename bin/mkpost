@@ -1,0 +1,58 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+A script to create a Jekyll post.
+"""
+
+import argparse
+import datetime
+import re
+import sys
+from pathlib import Path
+from typing import List
+
+TEMPLATE = """---
+layout: post
+title:  "{}"
+---
+"""
+
+
+def titlize(text: str) -> str:
+    """
+    Don't capitalize any articles, but capitalize all first and last words.
+    True capitalization is bit more complicated, but this is fine.
+    """
+    no_no_words = ["a", "an", "of", "the", "is"]
+    parts = [x.lower() for x in text.split()]
+
+    parts[0] = parts[0].capitalize()
+    parts[-1] = parts[-1].capitalize()
+    for index, part in enumerate(parts[1:-1]):
+        if part not in no_no_words:
+            parts[index + 1] = part.capitalize()
+
+    return " ".join(parts)
+
+
+def parse_args(args: List[str] = sys.argv[1:]) -> argparse.Namespace:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("title", nargs="+")
+    return parser.parse_args(args)
+
+
+def main(title: str) -> None:
+    title = titlize(title)
+
+    title_part = re.sub(r"[^\w\s]", "", title.lower()).replace(" ", "-")
+    filename = f"{datetime.datetime.today().strftime('%Y-%m-%d')}-{title_part}.md"
+    path = Path(__file__).parent.parent / "_posts" / filename
+    contents = TEMPLATE.format(title)
+    path.write_text(contents)
+
+    print(f"Post file created at: {path}")
+
+
+if __name__ == "__main__":
+    args = parse_args()
+    main(title=" ".join(args.title))
