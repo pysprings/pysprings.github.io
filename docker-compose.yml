@@ -1,0 +1,12 @@
+---
+
+services:
+  jekyll:
+    image: pysprings.org
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - .:/usr/src/app
+    ports:
+      - 4000:4000
