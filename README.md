@@ -4,9 +4,9 @@ We meet the second and fourth Tuesday of every month.
 
 [Our meetup site](https://www.meetup.com/pysprings/) has the latest things that we do.
 
-We meet virtually on the second Tuesday of each month, and in-person at [the enclave](http://enclavecoop.com/) the fourth Tuesday of each month.
+We meet virtually on the second Tuesday of each month, and in-person at [East Library](https://ppld.org/locations/east-library) (5550 N. Union Blvd) the fourth Tuesday of each month.
 
-Come chat with us!  We have a public matrix room hosted on [gitter.im](https://app.gitter.im/#/room/#pysprings_community:gitter.im) (you'll need to log on with a GitHub, GitLab, or Twitter account, in order to post).
+Come chat with us!  We have a public chat room on [Gitter / Matrix](https://app.gitter.im/#/room/#pysprings_community:gitter.im) — you can join via the Gitter web app (log in with GitHub, GitLab, or Twitter) or any [Matrix client](https://matrix.to/#/#pysprings_community:gitter.im) like Element.
 
 We also publish lots of projects and notes at <https://github.com/pysprings>.
 
