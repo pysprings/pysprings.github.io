@@ -7,7 +7,7 @@ We meet the second and fourth Tuesday of every month.
 We meet virtually on the second Tuesday of each month, and in-person at [East Library](https://ppld.org/locations/east-library) (5550 N. Union Blvd) the fourth Tuesday of each month.
 
 Chat with us:
-https://app.element.io/#/room/#pysprings_community:gitter.im
+<https://app.element.io/#/room/#pysprings_community:gitter.im>
 (Element opens in your browser — no install needed. Or use any Matrix client: #pysprings_community:gitter.im)
 
 We also publish lots of projects and notes at <https://github.com/pysprings>.
