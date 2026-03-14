@@ -6,18 +6,22 @@ hide:
 
 <div class="hero" markdown>
 
+<img src="assets/images/logo.png" alt="PySprings Logo" class="hero-logo">
+
 # PySprings
 
-<p class="subtitle">Southern Colorado Python User Group</p>
+<p class="subtitle" markdown>Southern Colorado Python User Group</p>
 
-<p class="schedule">
-2nd Tuesday — virtual  · 4th Tuesday — in-person at <a href="https://ppld.org/locations/east-library">East Library</a><br>
-<a href="https://www.meetup.com/pysprings/">Meetup</a> · <a href="https://app.element.io/#/room/#pysprings_community:gitter.im">Chat</a> · <a href="https://github.com/pysprings">GitHub</a>
+<p class="schedule" markdown>
+:material-calendar: 2nd Tuesday — virtual · 4th Tuesday — in-person at [East Library](https://ppld.org/locations/east-library)<br>
+[:material-account-group: Meetup](https://www.meetup.com/pysprings/) · [:material-chat: Chat](https://app.element.io/#/room/#pysprings_community:gitter.im) · [:material-github: GitHub](https://github.com/pysprings)
 </p>
 
-<div class="buttons">
-  <a href="paths/getting-started/" class="primary">Start Learning</a>
-  <a href="wiki/" class="secondary">Browse the Wiki</a>
+<div class="buttons" markdown>
+
+[:material-rocket-launch: Start Learning](paths/getting-started/){ .primary }
+[:material-book-open-variant: Browse the Wiki](wiki/){ .secondary }
+
 </div>
 
 </div>
