@@ -8,7 +8,7 @@
 |---|---|
 | **Difficulty** | :material-star::material-star: |
 | **Path(s)** | [Getting Started](../../paths/getting-started.md) |
-| **Repo** | [:material-github: pysprings/lightning-talks/jinja2](https://github.com/pysprings/lightning-talks/tree/main/jinja2) |
+| **Repo** | [:material-github: pysprings/lightning-talks/jinja2](https://github.com/pysprings/lightning-talks/tree/master/jinja2) |
 
 ## Overview
 

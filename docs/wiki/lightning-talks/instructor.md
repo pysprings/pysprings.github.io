@@ -6,7 +6,7 @@
 | **Path(s)** | [AI/ML](../../paths/ai-ml.md) |
 | **Prereqs** | [Jinja2](jinja2.md), [Pydantic](pydantic.md) |
 | **Unlocks** | [DSPy Series](../series/dspy-mastery.md), [RLM Project](../projects/rlm.md), [marketing-bot](../projects/marketing-bot.md) |
-| **Repo** | [:material-github: pysprings/lightning-talks/instructor](https://github.com/pysprings/lightning-talks/tree/main/instructor) |
+| **Repo** | [:material-github: pysprings/lightning-talks/instructor](https://github.com/pysprings/lightning-talks/tree/master/instructor) |
 
 ## Overview
 
@@ -22,8 +22,8 @@ The [Instructor](https://python.useinstructor.com/) library patches OpenAI's cli
 
 ## The Code
 
-- [`crc-cards.py`](https://github.com/pysprings/lightning-talks/blob/main/instructor/crc-cards.py) — Main script
-- [`prompt.txt`](https://github.com/pysprings/lightning-talks/blob/main/instructor/prompt.txt) — Jinja2 prompt template
+- [`crc-cards.py`](https://github.com/pysprings/lightning-talks/blob/master/instructor/crc-cards.py) — Main script
+- [`prompt.txt`](https://github.com/pysprings/lightning-talks/blob/master/instructor/prompt.txt) — Jinja2 prompt template
 
 ### Pydantic Models
 

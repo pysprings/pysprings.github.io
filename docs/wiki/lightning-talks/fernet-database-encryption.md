@@ -8,7 +8,7 @@
 |---|---|
 | **Difficulty** | :material-star::material-star::material-star: |
 | **Path(s)** | [Security](../../paths/security.md) |
-| **Repo** | [:material-github: pysprings/lightning-talks/fernet-database-encryption](https://github.com/pysprings/lightning-talks/tree/main/fernet-database-encryption) |
+| **Repo** | [:material-github: pysprings/lightning-talks/fernet-database-encryption](https://github.com/pysprings/lightning-talks/tree/master/fernet-database-encryption) |
 
 ## Overview
 

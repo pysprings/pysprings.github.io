@@ -8,7 +8,7 @@
 |---|---|
 | **Difficulty** | :material-star::material-star: |
 | **Path(s)** | [Packaging & Distribution](../../paths/packaging-distribution.md) |
-| **Repo** | [:material-github: pysprings/lightning-talks/wsl-gui](https://github.com/pysprings/lightning-talks/tree/main/wsl-gui) |
+| **Repo** | [:material-github: pysprings/lightning-talks/wsl-gui](https://github.com/pysprings/lightning-talks/tree/master/wsl-gui) |
 
 ## Overview
 

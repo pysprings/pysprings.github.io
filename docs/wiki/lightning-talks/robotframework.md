@@ -8,7 +8,7 @@
 |---|---|
 | **Difficulty** | :material-star::material-star: |
 | **Path(s)** | [Testing & Quality](../../paths/testing-quality.md) |
-| **Repo** | [:material-github: pysprings/lightning-talks/robotframework](https://github.com/pysprings/lightning-talks/tree/main/robotframework) |
+| **Repo** | [:material-github: pysprings/lightning-talks/robotframework](https://github.com/pysprings/lightning-talks/tree/master/robotframework) |
 
 ## Overview
 

@@ -8,7 +8,7 @@
 |---|---|
 | **Difficulty** | :material-star::material-star: |
 | **Path(s)** | [Stdlib Deep Dives](../../paths/stdlib-deep-dives.md) |
-| **Repo** | [:material-github: pysprings/lightning-talks/singledispatch](https://github.com/pysprings/lightning-talks/tree/main/singledispatch) |
+| **Repo** | [:material-github: pysprings/lightning-talks/singledispatch](https://github.com/pysprings/lightning-talks/tree/master/singledispatch) |
 
 ## Overview
 

@@ -6,7 +6,7 @@
 | **Path(s)** | [Stdlib Deep Dives](../../paths/stdlib-deep-dives.md) |
 | **Prereqs** | [Python Basics](../../paths/getting-started.md) |
 | **Unlocks** | [Multiprocessing](multiprocess.md) |
-| **Repo** | [:material-github: pysprings/lightning-talks/caching](https://github.com/pysprings/lightning-talks/tree/main/caching) |
+| **Repo** | [:material-github: pysprings/lightning-talks/caching](https://github.com/pysprings/lightning-talks/tree/master/caching) |
 
 ## Overview
 
@@ -22,7 +22,7 @@ Python's `functools.lru_cache` provides transparent memoization — cache the re
 
 ## The Code
 
-[`caching/`](https://github.com/pysprings/lightning-talks/tree/main/caching) in the lightning-talks repo.
+[`caching/`](https://github.com/pysprings/lightning-talks/tree/master/caching) in the lightning-talks repo.
 
 ### Basic Usage
 

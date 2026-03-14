@@ -8,7 +8,7 @@
 |---|---|
 | **Difficulty** | :material-star: |
 | **Path(s)** | [Stdlib Deep Dives](../../paths/stdlib-deep-dives.md) |
-| **Repo** | [:material-github: pysprings/lightning-talks/fractions](https://github.com/pysprings/lightning-talks/tree/main/fractions) |
+| **Repo** | [:material-github: pysprings/lightning-talks/fractions](https://github.com/pysprings/lightning-talks/tree/master/fractions) |
 
 ## Overview
 

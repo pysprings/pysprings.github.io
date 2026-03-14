@@ -8,7 +8,7 @@
 |---|---|
 | **Difficulty** | :material-star::material-star: |
 | **Path(s)** | [Getting Started](../../paths/getting-started.md) |
-| **Repo** | [:material-github: pysprings/lightning-talks/pydantic](https://github.com/pysprings/lightning-talks/tree/main/pydantic) |
+| **Repo** | [:material-github: pysprings/lightning-talks/pydantic](https://github.com/pysprings/lightning-talks/tree/master/pydantic) |
 
 ## Overview
 

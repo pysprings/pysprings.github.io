@@ -8,7 +8,7 @@
 |---|---|
 | **Difficulty** | :material-star: |
 | **Path(s)** | [Stdlib Deep Dives](../../paths/stdlib-deep-dives.md) |
-| **Repo** | [:material-github: pysprings/lightning-talks/ansi-escape-sequences](https://github.com/pysprings/lightning-talks/tree/main/ansi-escape-sequences) |
+| **Repo** | [:material-github: pysprings/lightning-talks/ansi-escape-sequences](https://github.com/pysprings/lightning-talks/tree/master/ansi-escape-sequences) |
 
 ## Overview
 

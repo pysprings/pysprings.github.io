@@ -6,7 +6,7 @@
 | **Path(s)** | [Stdlib Deep Dives](../../paths/stdlib-deep-dives.md) |
 | **Prereqs** | Basic Python |
 | **Unlocks** | [caching](caching.md), [zipapp](zipapp.md) |
-| **Repo** | [:material-github: pysprings/lightning-talks/pathlib](https://github.com/pysprings/lightning-talks/tree/main/pathlib) |
+| **Repo** | [:material-github: pysprings/lightning-talks/pathlib](https://github.com/pysprings/lightning-talks/tree/master/pathlib) |
 
 ## Overview
 
@@ -21,7 +21,7 @@ Modern, object-oriented file path handling with Python's `pathlib` module (stdli
 
 ## The Code
 
-[`pathlib/README.md`](https://github.com/pysprings/lightning-talks/blob/main/pathlib/README.md) — Full comparison of `os.path` vs `pathlib`
+[`pathlib/README.md`](https://github.com/pysprings/lightning-talks/blob/master/pathlib/README.md) — Full comparison of `os.path` vs `pathlib`
 
 ### Before (os.path)
 

@@ -8,7 +8,7 @@
 |---|---|
 | **Difficulty** | :material-star::material-star: |
 | **Path(s)** | [Packaging & Distribution](../../paths/packaging-distribution.md) |
-| **Repo** | [:material-github: pysprings/lightning-talks/pyinstaller](https://github.com/pysprings/lightning-talks/tree/main/pyinstaller) |
+| **Repo** | [:material-github: pysprings/lightning-talks/pyinstaller](https://github.com/pysprings/lightning-talks/tree/master/pyinstaller) |
 
 ## Overview
 

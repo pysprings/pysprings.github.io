@@ -8,7 +8,7 @@
 |---|---|
 | **Difficulty** | :material-star: |
 | **Path(s)** | [Security](../../paths/security.md) |
-| **Repo** | [:material-github: pysprings/lightning-talks/getpass-tty](https://github.com/pysprings/lightning-talks/tree/main/getpass-tty) |
+| **Repo** | [:material-github: pysprings/lightning-talks/getpass-tty](https://github.com/pysprings/lightning-talks/tree/master/getpass-tty) |
 
 ## Overview
 

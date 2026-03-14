@@ -8,7 +8,7 @@
 |---|---|
 | **Difficulty** | :material-star::material-star: |
 | **Path(s)** | [Packaging & Distribution](../../paths/packaging-distribution.md) |
-| **Repo** | [:material-github: pysprings/lightning-talks/zipapp](https://github.com/pysprings/lightning-talks/tree/main/zipapp) |
+| **Repo** | [:material-github: pysprings/lightning-talks/zipapp](https://github.com/pysprings/lightning-talks/tree/master/zipapp) |
 
 ## Overview
 

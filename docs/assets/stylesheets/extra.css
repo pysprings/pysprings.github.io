@@ -10,6 +10,17 @@
    ============================================================== */
 
 /* ================================================================
+   NEUROPOL FONT (CC0 Public Domain — dafont.com/neuropol.font)
+   ================================================================ */
+@font-face {
+  font-family: "Neuropol";
+  src: url("../fonts/Neuropol.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* ================================================================
    CSS CUSTOM PROPERTIES
    ================================================================ */
 :root,
@@ -62,8 +73,7 @@
 }
 
 .md-typeset h1 {
-  font-family: Georgia, "Times New Roman", serif;
-  font-style: italic;
+  font-family: "Neuropol", Georgia, sans-serif;
   font-weight: 700;
   color: var(--py-charcoal);
   letter-spacing: -0.02em;
@@ -73,7 +83,7 @@
 }
 
 .md-typeset h2 {
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: "Neuropol", Georgia, sans-serif;
   color: var(--py-sky-muted);
   border-bottom: 2px solid var(--py-orange-glow);
   padding-bottom: 0.3rem;
@@ -107,8 +117,7 @@
   box-shadow: 0 2px 12px rgba(0,0,0,0.3);
 }
 .md-header__title {
-  font-family: Georgia, serif;
-  font-style: italic;
+  font-family: "Neuropol", Georgia, sans-serif;
   font-weight: 700;
   letter-spacing: 0.02em;
 }
@@ -246,8 +255,7 @@
 
 .hero h1 {
   font-size: 3.2rem;
-  font-family: Georgia, serif;
-  font-style: italic;
+  font-family: "Neuropol", Georgia, sans-serif;
   font-weight: 700;
   margin-bottom: 0.15rem;
   background: linear-gradient(135deg, var(--py-charcoal) 0%, var(--py-sky-muted) 100%);
@@ -361,21 +369,21 @@
   box-shadow: 0 8px 30px rgba(0,0,0,0.4);
 }
 
-.path-card .path-icon {
-  font-size: 2rem;
-  margin-bottom: 0.5rem;
-  display: block;
-}
-
 .path-card h3 {
   margin: 0 0 0.5rem;
-  font-family: Georgia, serif;
+  font-family: "Neuropol", Georgia, sans-serif;
   font-size: 1.15rem;
-  color: var(--py-charcoal) !important;
   border: none !important;
   padding: 0 !important;
 }
-[data-md-color-scheme="slate"] .path-card h3 {
+.path-card h3 a {
+  color: var(--py-charcoal) !important;
+  text-decoration: none;
+}
+.path-card:hover h3 a {
+  color: var(--py-orange) !important;
+}
+[data-md-color-scheme="slate"] .path-card h3 a {
   color: var(--py-orange-light) !important;
 }
 
@@ -384,6 +392,12 @@
   opacity: 0.75;
   font-size: 0.85rem;
   line-height: 1.5;
+}
+
+.path-icon {
+  font-size: 2rem;
+  display: block;
+  margin-bottom: 0.5rem;
 }
 
 /* Color-coded top bars per path */

@@ -4,52 +4,64 @@ Choose a path based on your interests. Each is a sequence of topics that build o
 
 <div class="path-grid" markdown>
 
-<a class="path-card path-started" href="getting-started/" markdown>
-<span class="path-icon">:material-baby-carriage:</span>
+<div class="path-card path-started" markdown>
 
-### Getting Started
+:material-baby-carriage:{ .path-icon }
+
+### [Getting Started](getting-started.md)
 
 New to Python? Start here with basics, then branch into dev tools and configuration.
-</a>
 
-<a class="path-card path-stdlib" href="stdlib-deep-dives/" markdown>
-<span class="path-icon">:material-language-python:</span>
+</div>
 
-### Stdlib Deep Dives
+<div class="path-card path-stdlib" markdown>
+
+:material-language-python:{ .path-icon }
+
+### [Stdlib Deep Dives](stdlib-deep-dives.md)
 
 Master the Python standard library — pathlib, caching, multiprocessing, and more.
-</a>
 
-<a class="path-card path-ai" href="ai-ml/" markdown>
-<span class="path-icon">:material-robot:</span>
+</div>
 
-### AI / ML
+<div class="path-card path-ai" markdown>
+
+:material-robot:{ .path-icon }
+
+### [AI / ML](ai-ml.md)
 
 From structured LLM outputs to a full 12-month DSPy mastery series.
-</a>
 
-<a class="path-card path-security" href="security/" markdown>
-<span class="path-icon">:material-shield-lock:</span>
+</div>
 
-### Security
+<div class="path-card path-security" markdown>
+
+:material-shield-lock:{ .path-icon }
+
+### [Security](security.md)
 
 Passwords, encryption, TOTP, and secure input handling.
-</a>
 
-<a class="path-card path-testing" href="testing-quality/" markdown>
-<span class="path-icon">:material-test-tube:</span>
+</div>
 
-### Testing & Quality
+<div class="path-card path-testing" markdown>
+
+:material-test-tube:{ .path-icon }
+
+### [Testing & Quality](testing-quality.md)
 
 Debuggers, test frameworks, and quality practices.
-</a>
 
-<a class="path-card path-packaging" href="packaging-distribution/" markdown>
-<span class="path-icon">:material-package-variant:</span>
+</div>
 
-### Packaging & Distribution
+<div class="path-card path-packaging" markdown>
+
+:material-package-variant:{ .path-icon }
+
+### [Packaging & Distribution](packaging-distribution.md)
 
 Ship your Python code as zipapps, executables, or containers.
-</a>
+
+</div>
 
 </div>

@@ -8,7 +8,7 @@
 |---|---|
 | **Difficulty** | :material-star::material-star: |
 | **Path(s)** | [Getting Started](../../paths/getting-started.md) |
-| **Repo** | [:material-github: pysprings/lightning-talks/env-vars](https://github.com/pysprings/lightning-talks/tree/main/env-vars) |
+| **Repo** | [:material-github: pysprings/lightning-talks/env-vars](https://github.com/pysprings/lightning-talks/tree/master/env-vars) |
 
 ## Overview
 

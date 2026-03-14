@@ -8,7 +8,7 @@
 |---|---|
 | **Difficulty** | :material-star: |
 | **Path(s)** | [Testing & Quality](../../paths/testing-quality.md) |
-| **Repo** | [:material-github: pysprings/lightning-talks/debuggers](https://github.com/pysprings/lightning-talks/tree/main/debuggers) |
+| **Repo** | [:material-github: pysprings/lightning-talks/debuggers](https://github.com/pysprings/lightning-talks/tree/master/debuggers) |
 
 ## Overview
 

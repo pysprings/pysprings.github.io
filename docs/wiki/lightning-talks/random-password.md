@@ -8,7 +8,7 @@
 |---|---|
 | **Difficulty** | :material-star::material-star: |
 | **Path(s)** | [Security](../../paths/security.md) |
-| **Repo** | [:material-github: pysprings/lightning-talks/random-password](https://github.com/pysprings/lightning-talks/tree/main/random-password) |
+| **Repo** | [:material-github: pysprings/lightning-talks/random-password](https://github.com/pysprings/lightning-talks/tree/master/random-password) |
 
 ## Overview
 

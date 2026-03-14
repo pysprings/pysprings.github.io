@@ -8,7 +8,7 @@
 |---|---|
 | **Difficulty** | :material-star::material-star: |
 | **Path(s)** | [Stdlib Deep Dives](../../paths/stdlib-deep-dives.md) |
-| **Repo** | [:material-github: pysprings/lightning-talks/multiprocess](https://github.com/pysprings/lightning-talks/tree/main/multiprocess) |
+| **Repo** | [:material-github: pysprings/lightning-talks/multiprocess](https://github.com/pysprings/lightning-talks/tree/master/multiprocess) |
 
 ## Overview
 

@@ -8,7 +8,7 @@
 |---|---|
 | **Difficulty** | :material-star::material-star::material-star: |
 | **Path(s)** | [Security](../../paths/security.md), [Packaging & Distribution](../../paths/packaging-distribution.md) |
-| **Repo** | [:material-github: pysprings/lightning-talks/pyotp-docker](https://github.com/pysprings/lightning-talks/tree/main/pyotp-docker) |
+| **Repo** | [:material-github: pysprings/lightning-talks/pyotp-docker](https://github.com/pysprings/lightning-talks/tree/master/pyotp-docker) |
 
 ## Overview
 
