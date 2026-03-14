@@ -1,0 +1,105 @@
+site_name: PySprings
+site_url: https://pysprings.org
+site_description: Southern Colorado Python User Group
+repo_url: https://github.com/pysprings/pysprings.github.io
+
+theme:
+  name: material
+  custom_dir: overrides
+  features:
+    - navigation.footer
+    - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+  palette:
+    - scheme: default
+      primary: blue
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: blue
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  icon:
+    repo: fontawesome/brands/github
+
+plugins:
+  - search
+
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_div_format
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Tutorials: tutorials.md
+  - Wiki:
+    - wiki/index.md
+    - Lightning Talks:
+      - wiki/lightning-talks/index.md
+      - wiki/lightning-talks/ansi-escape-sequences.md
+      - wiki/lightning-talks/caching.md
+      - wiki/lightning-talks/debuggers.md
+      - wiki/lightning-talks/env-vars.md
+      - wiki/lightning-talks/fernet-database-encryption.md
+      - wiki/lightning-talks/fractions.md
+      - wiki/lightning-talks/getpass-tty.md
+      - wiki/lightning-talks/instructor.md
+      - wiki/lightning-talks/interactive-application.md
+      - wiki/lightning-talks/jinja2.md
+      - wiki/lightning-talks/multiprocess.md
+      - wiki/lightning-talks/pathlib.md
+      - wiki/lightning-talks/pydantic.md
+      - wiki/lightning-talks/pyinstaller.md
+      - wiki/lightning-talks/pyotp-docker.md
+      - wiki/lightning-talks/random-password.md
+      - wiki/lightning-talks/robotframework.md
+      - wiki/lightning-talks/singledispatch.md
+      - wiki/lightning-talks/wsl-gui.md
+      - wiki/lightning-talks/zipapp.md
+    - Series:
+      - wiki/series/index.md
+      - wiki/series/dspy-mastery.md
+      - wiki/series/weekly-challenges.md
+    - Projects:
+      - wiki/projects/index.md
+      - wiki/projects/rlm.md
+      - wiki/projects/marketing-bot.md
+      - wiki/projects/badging-system.md
+      - wiki/projects/htmx-flask.md
+      - wiki/projects/satellite-radio.md
+      - wiki/projects/entangled.md
+  - Skill Paths:
+    - paths/index.md
+    - paths/getting-started.md
+    - paths/stdlib-deep-dives.md
+    - paths/ai-ml.md
+    - paths/security.md
+    - paths/testing-quality.md
+    - paths/packaging-distribution.md
