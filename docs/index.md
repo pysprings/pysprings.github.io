@@ -19,8 +19,8 @@ hide:
 
 <div class="buttons" markdown>
 
-[:material-rocket-launch: Start Learning](paths/getting-started/){ .primary }
-[:material-book-open-variant: Browse the Wiki](wiki/){ .secondary }
+[:material-rocket-launch: Start Learning](paths/getting-started.md){ .primary }
+[:material-book-open-variant: Browse the Wiki](wiki/index.md){ .secondary }
 
 </div>
 

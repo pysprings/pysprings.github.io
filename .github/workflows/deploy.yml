@@ -20,13 +20,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
+      - uses: astral-sh/setup-uv@v5
 
-      - run: pip install mkdocs-material
+      - run: uv sync
 
-      - run: mkdocs build --strict
+      - run: uv run mkdocs build --strict
 
       - run: cp -r pysprings-gradients site/pysprings-gradients
       - run: cp -r toychest site/toychest
