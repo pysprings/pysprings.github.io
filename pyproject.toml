@@ -1,0 +1,8 @@
+[project]
+name = "pysprings-site"
+version = "0.1.0"
+description = "PySprings community website"
+requires-python = ">=3.12"
+dependencies = [
+    "mkdocs-material",
+]
